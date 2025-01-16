@@ -46,5 +46,5 @@ Feel free to explore the projects and provide feedback. Contributions and sugges
 ## Contact
 
 If you have any questions or want to connect, feel free to reach out:
-- [LinkedIn]((https://www.linkedin.com/in/aravpatel-/))
-- [Email](aravpatel2319@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aravpatel-/)
+- [aravpatel2319@gmail.com](aravpatel2319@gmail.com)
