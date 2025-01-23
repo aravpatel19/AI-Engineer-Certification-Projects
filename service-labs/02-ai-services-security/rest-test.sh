@@ -1,0 +1,1 @@
+curl -X POST "https://arav-lab2.cognitiveservices.azure.com/text/analytics/v3.1/languages?'" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 5fb99a3d5089432b9270a41447d76d33" --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"

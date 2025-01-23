@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1MTO8/Dvog=",
+  "success": true,
+  "projectFilePath": "/Users/aravpatel/projects-personal/azureai/AI-Engineer-Certification-Projects/mslearn-ai-vision/Labfiles/03-object-detection/C-Sharp/test-detector/test-detector.csproj",
+  "expectedPackageFiles": [
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.configuration/3.1.9/microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.9/microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.9/microsoft.extensions.configuration.fileextensions.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.configuration.json/3.1.9/microsoft.extensions.configuration.json.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.9/microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.9/microsoft.extensions.fileproviders.physical.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.9/microsoft.extensions.filesystemglobbing.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/aravpatel/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
