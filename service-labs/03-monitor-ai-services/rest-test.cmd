@@ -1,1 +1,0 @@
-curl -X POST "https://arav-lab3.cognitiveservices.azure.com/language/:analyze-text?api-version=2023-04-01" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 4VFskxYU0KpkVYQEAC9O0P6clVGPys2klExnH6GBt6khLzcPhE4YJQQJ99BAACYeBjFXJ3w3AAAAACOGNVnC" --data-ascii "{'analysisInput':{'documents':[{'id':1,'text':'hello'}]}, 'kind': 'LanguageDetection'}"

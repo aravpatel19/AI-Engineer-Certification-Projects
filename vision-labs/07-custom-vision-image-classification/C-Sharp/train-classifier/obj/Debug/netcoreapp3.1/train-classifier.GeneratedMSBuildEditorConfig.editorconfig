@@ -1,5 +1,0 @@
-is_global = true
-build_property.RootNamespace = train_classifier
-build_property.ProjectDir = /Users/aravpatel/projects-personal/azureai/AI-Engineer-Certification-Projects/mslearn-ai-vision/Labfiles/07-custom-vision-image-classification/C-Sharp/train-classifier/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
